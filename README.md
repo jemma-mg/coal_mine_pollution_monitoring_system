@@ -5,7 +5,7 @@
 - In this we make use of temperature and humidity sensor DHT11,Gas sensor MQ2 which detects gases such as methane, carbon monoxide, hydrogen etc .It also detects smoke in the surroundings.
 - This data from the sensor is sent to the Arduino,which processes the information .
 - If there is any variation in any of the values from that of the normally expected values, the buzzer beeps and Lcd display will display the parameter with the variation.
-- The LCD also displays the present values of temperature and humidity 
+- The LCD also displays the present values of temperature and humidity. 
 
 
 #### Components used:
